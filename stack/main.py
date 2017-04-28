@@ -85,14 +85,14 @@ def main():
     #
     # fcVal = fc(rotatedStack)
 
-
+    
     fcTrain = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotated/fc_bis.txt'
     rotTrainTxt = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotated/rotation.txt'
-
-    fcVal = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal/fc_bis.txt'
-    rotValTxt = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal/rotationVal.txt'
-
-    rotatedStack = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal'
+    #
+    # fcVal = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal/fc_bis.txt'
+    # rotValTxt = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal/rotationVal.txt'
+    #
+    # rotatedStack = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal'
 
     # pred = '/home/axel/Documents/DATASET/canon_T2star_vp.tif_17566/png/resized/rotatedVal/rfr_pred_val_0_100.csv'
 
